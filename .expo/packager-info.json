@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://2j-z53.anonymous.qm-recipe.exp.direct",
+  "packagerNgrokUrl": "https://packager.2j-z53.anonymous.qm-recipe.exp.direct",
+  "ngrokPid": 87376,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
